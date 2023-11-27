@@ -1,0 +1,5 @@
+export * from './basic-queue.exemple'
+export * from './square-dance-queue.exemple'
+export * from './radix-sort-queue.exemple'
+export * from './priority-queue.exemple'
+export * from './deque-queue.exemple'

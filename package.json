@@ -1,0 +1,13 @@
+{
+    "name": "data-structures-and-algorithms-in-ts",
+    "version": "1.0.0",
+    "description": "This package represent a personal effort while learning data structures & algorithms in Javascript",
+    "scripts": {
+        "start": "tsc && node js/main.js"
+    },
+    "author": "Afir Sofiane",
+    "license": "MIT",
+    "devDependencies": {
+        "@types/node": "^20.8.3"
+    }
+}
