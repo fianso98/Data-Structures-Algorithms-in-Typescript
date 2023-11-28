@@ -2,6 +2,7 @@ import { BasicListExemple, IterationListExemple, InsertOnlyIfListExemple, person
 import { BasicQueueExemple, DequeQueueExemple, PriorityQueueExemple, RadixSortQueueExemple, SquareDanceQueueExemple } from './exemples/queue';
 import { BasicStackExemple, PolindromStackExemple, MultipleBaseConversionStack, FactorialStackExemple, UnbalancedParenthesesStackExemple, InfinixExpressionStackExemple } from './exemples/stack';
 import { BasicDLinkedListExemple, BasicLinkedListExemple, PostLinkedListExemple } from './exemples/linkedList';
+import { BasicHashMapExemple } from './exemples/hasMap';
 
 
 
@@ -25,5 +26,7 @@ import { BasicDLinkedListExemple, BasicLinkedListExemple, PostLinkedListExemple 
 
 // BasicLinkedListExemple.run();
 // BasicDLinkedListExemple.run();
-PostLinkedListExemple.run();
+// PostLinkedListExemple.run();
+
+BasicHashMapExemple.run();
 
