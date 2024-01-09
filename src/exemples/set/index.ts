@@ -1,0 +1,5 @@
+export * from './basic-set.exemple'
+export * from './union-set.exemple'
+export * from './intersect-set.exemple'
+export * from './subset.exemple'
+export * from './difference-set.exemple'

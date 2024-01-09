@@ -3,6 +3,7 @@ import { BasicQueueExemple, DequeQueueExemple, PriorityQueueExemple, RadixSortQu
 import { BasicStackExemple, PolindromStackExemple, MultipleBaseConversionStack, FactorialStackExemple, UnbalancedParenthesesStackExemple, InfinixExpressionStackExemple } from './exemples/stack';
 import { BasicDLinkedListExemple, BasicLinkedListExemple, PostLinkedListExemple } from './exemples/linkedList';
 import { BasicHashMapExemple } from './exemples/hasMap';
+import { BasicSetExemple, DifferenceSetExemple, IntersectSetExemple, SubSetExemple, UnionSetExemple } from './exemples/set';
 
 
 
@@ -28,5 +29,12 @@ import { BasicHashMapExemple } from './exemples/hasMap';
 // BasicDLinkedListExemple.run();
 // PostLinkedListExemple.run();
 
-BasicHashMapExemple.run();
+// BasicHashMapExemple.run();
+
+// BasicSetExemple.run();
+// UnionSetExemple.run();
+// IntersectSetExemple.run();
+// SubSetExemple.run();
+DifferenceSetExemple.run();
+
 
