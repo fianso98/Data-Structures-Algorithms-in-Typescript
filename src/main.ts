@@ -4,6 +4,7 @@ import { BasicStackExemple, PolindromStackExemple, MultipleBaseConversionStack, 
 import { BasicDLinkedListExemple, BasicLinkedListExemple, PostLinkedListExemple } from './exemples/linkedList';
 import { BasicHashMapExemple } from './exemples/hasMap';
 import { BasicSetExemple, DifferenceSetExemple, IntersectSetExemple, SubSetExemple, UnionSetExemple } from './exemples/set';
+import { BasicTreeExemple } from './exemples/tree/basic-tree.exemple';
 
 
 
@@ -35,6 +36,6 @@ import { BasicSetExemple, DifferenceSetExemple, IntersectSetExemple, SubSetExemp
 // UnionSetExemple.run();
 // IntersectSetExemple.run();
 // SubSetExemple.run();
-DifferenceSetExemple.run();
+// DifferenceSetExemple.run();
 
-
+BasicTreeExemple.run();
